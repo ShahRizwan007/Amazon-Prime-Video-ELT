@@ -36,6 +36,7 @@ Finally I load this data from posgresql to Power Bi and Created Interactive dash
 - Power BI DAX
 
 dataset link :https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
+PowerBi Dashboard Link:https://app.powerbi.com/groups/me/reports/cc5083a4-18ea-411d-a104-29490e0b47ae/a7b7ac0ba68280d68c14?experience=power-bi
 
 Please feel free to give any suggestion or feedback, If you like this post give it a like and share it.
 Follow me on github and linkedin for more useful data analyst project
