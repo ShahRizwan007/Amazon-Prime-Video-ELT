@@ -39,6 +39,7 @@ Finally I load this data from posgresql to Power Bi and Created Interactive dash
 
 **PowerBi Dashboard Link**:https://app.powerbi.com/view?r=eyJrIjoiMTE4ZjMyNDEtNzFhZC00N2U4LWE3ZTUtYjRjZmM1OWM3ZmUyIiwidCI6IjM3YjRlMWVmLTg4NjgtNDliZC04ZmExLTg1M2I4MTNkNTY0ZSJ9  
 
+**Linkedin Post** :https://www.linkedin.com/feed/update/urn:li:activity:7244926263591682048/
 
 Please feel free to give any suggestion or feedback, If you like this post give it a like and share it.
 Follow me on github and linkedin for more useful data analyst project
